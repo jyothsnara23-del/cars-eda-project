@@ -1,0 +1,1 @@
+Preview chart PNGs and PDF use synthetic sample data. Run the Python script with internet access to generate final outputs from UCI Auto MPG.
